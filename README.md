@@ -1,4 +1,4 @@
-# webpack-basic-setup
+# webpack-boiler-plate
 
 #####Usage
 
